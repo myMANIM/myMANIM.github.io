@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>关于</title>
+
 </head>
 <body>
   <h1>欢迎来到子站！</h1>
